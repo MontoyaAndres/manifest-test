@@ -11,7 +11,6 @@ const theme = createTheme({
       main: orange[700],
       contrastText: common.white,
     },
-    type: 'dark',
   },
 });
 
